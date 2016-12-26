@@ -1,3 +1,21 @@
-Diff helped 
+1. Diff helped 
 	to point out the error 
 		very very fast
+
+2. Can easily go back to the older version if the file 
+	and easily change back to it
+
+3. Changes should be committed only when a logical change is made.
+	- ie fix of a bug
+	- change in a feature
+	- added documentation etc.
+4. To track changes accross multiple file, Git provides a 'repository'
+	which is a logical group of the files that are related and any changes can be viewed at once.
+
+5. git log and git diff
+	Git log helps to know the changes that are made in a repository
+	Git view helps to get the difference part of a single commit. Note in this case a commit might be accross multiple files in a commit.
+
+6. With Git checkout it is easy to go back to a previous version to 	 	checkout where a particular bug might have been introduced.
+
+
