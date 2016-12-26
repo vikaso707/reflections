@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	It creates the .git folder for metadata for the repository. This is needed to store the commit history for the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Stating area is helps to store the file before they can be moved to the repository. 
